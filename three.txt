@@ -1,1 +1,2 @@
-three.txt file added
+three.txt file added 
+and added some changes 
