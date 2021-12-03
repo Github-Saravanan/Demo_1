@@ -1,2 +1,1 @@
-three.txt file added 
-and added some changes 
+three.txt file is created
